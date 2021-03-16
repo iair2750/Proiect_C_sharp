@@ -1,0 +1,28 @@
+﻿1;Houston Rockets;1
+2;Los Angeles Lakers;2
+3;LA Clippers;3
+4;Chicago Bulls;4
+5;Cleveland Cavaliers;5
+6;Utah Jazz;6
+7;Brooklyn Nets;7
+8;New Orleans Pelicans;8
+9;Indiana Pacers;9
+10;Toronto Raptors;10
+11;Charlotte Hornets;11
+12;Phoenix Suns;12
+13;Portland TrailBlazers;13
+14;Golden State Warriors;13
+15;Washington Wizards;14
+16;San Antonio Spurs;15
+17;Orlando Magic;16
+18;Denver Nuggets;17
+19;Detroit Pistons;18
+20;Atlanta Hawks;19
+21;Dallas Mavericks;20
+22;Sacramento Kings;21
+23;Oklahoma City Thunder;22
+24;Boston Celtics;23
+25;New York Knicks;24
+26;Minnesota Timberwolves;25
+27;Miami Heat;26
+28;Milwaukee Bucks;27

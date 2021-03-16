@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4BB430B9-8354-43E2-BBE0-75FEDCAB2547}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>proiect_lab_9</RootNamespace>
+    <AssemblyName>proiect_lab_9</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="domain\Jucator.cs" />
+    <Compile Include="domain\Echipa.cs" />
+    <Compile Include="domain\Elev.cs" />
+    <Compile Include="domain\Entity.cs" />
+    <Compile Include="domain\Institutie_Invatamant.cs" />
+    <Compile Include="domain\JucatorActiv.cs" />
+    <Compile Include="domain\Meci.cs" />
+    <Compile Include="domain\validator\EchipaValidator.cs" />
+    <Compile Include="domain\validator\EleviValidator.cs" />
+    <Compile Include="domain\validator\IValidator.cs" />
+    <Compile Include="domain\validator\JucatorActivValidator.cs" />
+    <Compile Include="domain\validator\JucatorValidator.cs" />
+    <Compile Include="domain\validator\MeciValidator.cs" />
+    <Compile Include="domain\validator\ScoliValidator.cs" />
+    <Compile Include="domain\validator\ValidationException.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="repo\EchipeFileRepo.cs" />
+    <Compile Include="repo\EleviFileRepo.cs" />
+    <Compile Include="repo\FileRepo.cs" />
+    <Compile Include="repo\InMemoryRepo.cs" />
+    <Compile Include="repo\IRepo.cs" />
+    <Compile Include="repo\JucatorActivFileRepo.cs" />
+    <Compile Include="repo\JucatorFileRepo.cs" />
+    <Compile Include="repo\MeciFileRepo.cs" />
+    <Compile Include="repo\RepoException.cs" />
+    <Compile Include="repo\ScoliFileRepo.cs" />
+    <Compile Include="service\Service.cs" />
+    <Compile Include="service\ServiceException.cs" />
+    <Compile Include="ui\Ui.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\Echipe.txt" />
+    <Content Include="data\Elevi.txt" />
+    <Content Include="data\Jucatori.txt" />
+    <Content Include="data\JucatoriActivi.txt" />
+    <Content Include="data\Meciuri.txt" />
+    <Content Include="data\Scoli.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

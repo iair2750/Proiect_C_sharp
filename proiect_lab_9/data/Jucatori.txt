@@ -1,0 +1,456 @@
+﻿1;Alexandrescu Stefania;1;1
+2;Alexandrescu Catalin;1;1
+3;Basarabeanu Cosmin;1;1
+4;Munteanu Florentina-Daniela;1;1
+5;Bujoreanu Leandru-Gheorghe;1;1
+6;Crisan Ovidiu;1;1
+7;Litescu Simona Carmen;1;1
+8;Calenic Bogdan;1;1
+9;Tiplea Ferucio Laurentiu;1;1
+10;Ittu Mariana;1;1
+11;Onu Mihaela;1;1
+12;Huminic Gabriela;1;1
+13;Parvulescu Vasile;1;1
+14;Tanase Cristiana;1;1
+15;Neagu Adrian;1;1
+16;Florea Mihaela;2;2
+17;Taranu Ionelia;2;2
+18;Sarbu Andrei;2;2
+19;Tudor Cristiana;2;2
+20;Polosan Silviu;2;2
+21;Meghea Aurelia;2;2
+22;Marin Marin;2;2
+23;Sima Nicolae Felix;2;2
+24;Gatu Cristian;2;2
+25;Gheorghiu Eugen;2;2
+26;Stoica Elena;2;2
+27;Marcu Loredana Gabriela;2;2
+28;Isvoranu Dragos;2;2
+29;Paizs Csaba;2;2
+30;Zecheru Teodora;2;2
+31;Rapeanu Gabriela;3;3
+32;Babes Alexandru;3;3
+33;Albulescu Radu;3;3
+34;Zoran Maria;3;3
+35;Butu Alina;3;3
+36;Radu Gabriel-Lucian;3;3
+37;Simion Monica;3;3
+38;Duta Capra;3;3
+39;Lungu Magdalena-Valentina;3;3
+40;Vladoiu Rodica;3;3
+41;Miu Lucretia;3;3
+42;Dobrescu Lidia;3;3
+43;Gaiceanu Marian;3;3
+44;Grozea Adrian;3;3
+45;Uivarosi Valentina;3;3
+46;Duta Denisa Eglantina;4;4
+47;Dudian Monica;4;4
+48;Tanasa Radu Iulian;4;4
+49;Maruntelu Nicolae;4;4
+50;Piticescu Radu-Robert;4;4
+51;Ionica Marcel;4;4
+52;Docan Daniela Cristiana;4;4
+53;Vlase Sorin;4;4
+54;Girtu Mihai;4;4
+55;Trasca Teodor-Ioan;4;4
+56;Mutihac Radu;4;4
+57;Costea Stefan Dan;4;4
+58;Avasilcai Silvia;4;4
+59;Voicilas Dan-Marius;4;4
+60;Cantaragiu Stefan;4;4
+61;Moisescu Mihnea;5;5
+62;Paun Gabriela;5;5
+63;Petrescu Camelia;5;5
+64;Rogozea Liliana;5;5
+65;Radu Andrei;5;5
+66;Macuta Silviu-Danuti;5;5
+67;Iovan Stefan;5;5
+68;Dumitrache Liliana;5;5
+69;Ardelean Ioan;5;5
+70;Goeorgescu Andrei-Mugur;5;5
+71;Valentin Nita;5;5
+72;Popescu Leonica;5;5
+73;Dabija Adriana;5;5
+74;Cristofor Sergiu;5;5
+75;Molnar-Matei-Cozma;5;5
+76;Rusu Eugen Victor Crtistian;6;6
+77;Buiu Octavian;6;6
+78;Banu Iuliana;6;6
+79;Vidu Livia;6;6
+80;Salageanu Aurora;6;6
+81;Bubueanu Elena Corina;6;6
+82;Almasan Valer;6;6
+83;Lucanu Nicolae;6;6
+84;Dobrota Cristina;6;6
+85;Lica Flore;6;6
+86;Marculescu Andreea;6;6
+87;Beldiman Dumitru;6;6
+88;Carney Corina;6;6
+89;Stan Catalina Elena;6;6
+90;Ariton Bebi Doinita;6;6
+91;Alexandru Dragos;7;7
+92;Candea Elena;7;7
+93;Pascal Ileana Mihaela;7;7
+94;Ionita Paul;7;7
+95;Macarie Felicia Cornelia;7;7
+96;Matei Alina;7;7
+97;Grosu Matei-Alexandru;7;7
+98;Costache Maria;7;7
+99;Ghelmez Mihaela;7;7
+100;Muresan Mihaela;7;7
+101;Ciuca Raluca Catrinel;7;7
+102;Dobrea Razvan Catalin;7;7
+103;Bratescu Tatiana;7;7
+104;Tugui Vasilica ŢUGUI;7;7
+105;Pamfil Virgil;7;7
+106;Lazaroiu Gheorghe;8;8
+107;Patroi Eros-Alexandru;8;8
+108;Radu Albulescu;8;8
+109;Butu Elena-Alina;8;8
+110;Teodosiu Carmen;8;8
+111;Stanciu Silvius;8;8
+112;Rogozea Liliana Marcela;8;8
+113;Bubueanu Corina;8;8
+114;Alexandru Adriana;8;8
+115;Albu Mihaela;8;8
+116;Mesaros Claudiu Marius;8;8
+117;Cucu Daniela;8;8
+118;Lungu Magdalena Valentina;8;8
+119;Pascariu Gabriela Carmen;8;8
+120;Nechifor Pompiliu;8;8
+121;Doni Mihaela;9;9
+122;Antoniu Sabina;9;9
+123;Copolovici Lucian Octav;9;9
+124;Alb Camelia;9;9
+125;Albu Madalina;9;9
+126;Aldea Madalina Elena;9;9
+127;Ambrosio Luigi;9;9
+128;Andronescu Corina;9;9
+129;Andrian Sorin;9;9
+130;Andrusca Andreea;9;9
+131;Andronescu Ecaterina;9;9
+132;Andone Ioana;9;9
+133;Antohe Magda;9;9
+134;Antoniac Iulian;9;9
+135;Antoniac Petrut;9;9
+136;Apostu Mircea;10;10
+137;Apetrei Daniela;10;10
+138;Ardelean Lavinia;10;10
+139;Baciu Diana Elena;10;10
+140;Baciu Raluca;10;10
+141;Baciut Mihaela;10;10
+142;Bacinschi Zorica;10;10
+143;Badescu Laurentiu ;10;10
+144;Badescu Magda;10;10
+145;Badescu Minerva Codruta;10;10
+146;Badescu Virgil;10;10
+147;Bala Daniela;10;10
+148;Baltaru Roxana;10;10
+149;Baran Dana;10;10
+150;Barbulescu Georgiana;10;10
+151;Bane Marin;11;11
+152;Batin Gabriel;11;11
+153;Batalu Dan;11;11
+154;Bindaru Daniela Angelica;11;11
+155;Bivol Liviu;11;11
+156;Blajan Ana;11;11
+157;Bojin Dionezie;11;11
+158;Bololoi Robert;11;11
+159;Bortun Cristina Mariana;11;11
+160;Bostan Luciana;11;11
+161;Botez Paul;11;11
+162;Branzei Mihai;11;11
+163;Burlui Vasile;11;11
+164;Bugariu Delia;11;11
+165;Burean Elisabeta;11;11
+166;Buruiana Emil;12;12
+167;Buruiana Tinca;12;12
+168;Călin Dorelia Lucia;12;12
+169;Cacaina Dana;12;12
+170;Cara Roxana Romanita;12;12
+171;Caracostea Adriana;12;12
+172;Carata Eugen;12;12
+173;Cavalu Simona;12;12
+174;Cazacu Ana;12;12
+175;Chelariu Romeo;12;12
+176;Chendreanu Cristina;12;12
+177;Chitanu Gabriela;12;12
+178;Chicu Mihaela;12;12
+179;Chiciuc Cristina;12;12
+180;Chiriac Anca Aurora;12;12
+181;Chisiu Georgiana;13;13
+182;Cincu Corneliu;13;13
+183;Cincu Emanuela;13;13
+184;Cinteza Otilia;13;13
+185;Ciocan Toma;13;13
+186;Ciocoiu Manuela;13;13
+187;Ciorap Radu;13;13
+188;Cirstoiu Catalin;13;13
+189;Ciuca Ion;13;14
+190;Ciuca Sorin;13;14
+191;Ciurea Mircea;13;14
+192;Colceriu Aurora;13;14
+193;Colceriu Loredana;13;14
+194;Coleasa Gabriel;13;14
+195;Constantin Emil;13;14
+196;Constantinescu Clara;14;15
+197;Comoneci Radu;14;15
+198;Constantin Alexandru;14;15
+199;Constantin Florina;14;15
+200;Copil Bogdan;14;15
+201;Corneci Magdalena;14;15
+202;Corobea Mihai Cosmin;14;15
+203;Cotrut Cosmin;14;15
+204;Cotrutz Carmen-Elena;14;15
+205;Covaliu Cristina;14;15
+206;Craciunescu Oana;14;15
+207;Crisan Nicoleta;14;15
+208;Danciu Virginia;14;15
+209;Dascalu Cristina;14;15
+210;David Geta;14;15
+211;Demetrescu Ioana;15;16
+212;Dindelegan George;15;16
+213;Dinu Mihaela;15;16
+214;Dobre Oana;15;16
+215;Dorohoi Dana;15;16
+216;Dragnea Loredana;15;16
+217;Drambă Iulia;15;16
+218;Dreucean Mircea;15;16
+219;Droc Ionel;15;16
+220;Dudea Diana;15;16
+221;Dumitriu Daniel Herea;15;16
+222;Dumitraşcu Nicoleta;15;16
+223;Duta Liviu;15;16
+224;Egorov Monica;15;16
+225;Enache Luana;15;16
+226;Farcaş Aurica;16;17
+227;Fetecau Catalin;16;17
+228;Firica Andrei;16;17
+229;Ficai Anton;16;17
+230;Filioreanu Ana Maria;16;17
+231;Foca Neculai;16;17
+232;Focanici Ecaterina;16;17
+233;Forna Norina;16;17
+234;Frincu Doina Lucia;16;17
+235;Frincu Lucian Laurian;16;17
+236;Furtos Gabriel;16;17
+237;Garea Sorina;16;17
+238;Garlea Ana;16;17
+239;Gavriliu Stefania;16;17
+240;Galbinasu Bogdan;16;17
+241;Gheorghe Ana Maria;17;18
+242;Gheorghe Dan;17;18
+243;Giurginca Maria;17;18
+244;Gheorghiu Catrinel;17;18
+245;Ghiba Ovidiu;17;18
+246;Ghica Mihaela;17;18
+247;Ghinea Răzvan;17;18
+248;Gogulescu Bogdan;17;18
+249;Gogulescu Nicolae;17;18
+250;Grigore Ioana;17;18
+251;Grigore Florentina;17;18
+252;Groza Claudia;17;18
+253;Hadar Anton;17;18
+254;Haiduc Claudiu Daniel;17;18
+255;Hâncu Costel Alexandru;17;18
+256;Herghelegiu Mihaela;18;19
+257;Ichim Ionut Corneliu;18;19
+258;Iftimie Nicoleta;18;19
+259;Ioan Daniel;18;19
+260;Ioanovici Teodora;18;19
+261;Ionescu Cezar;18;19
+262;Ionescu Liviu;18;19
+263;Iordache Bogdan;18;19
+264;Iordoc Mihai;18;19
+265;Iovu Horia;18;19
+266;Indrei Anca;18;19
+267;Indrei Lucian;18;19
+268;Istodorescu Mircea;18;19
+269;Istrate Robert;18;19
+270;Robu Alina;18;19
+271;Jitaru Daniela;19;20
+272;Kirkpatrick James;19;20
+273;Kloetzer Lenuta;19;20
+274;Lacatusu Ioana;19;20
+275;Lacatusu Cosmin;19;20
+276;Laptoiu Dan;19;20
+277;Laurian Tiberiu;19;20
+278;Lemaitre Jacques;19;20
+279;Lucaci Mariana;19;20
+280;Lucaciu Ondine;19;20
+281;Lungu Adriana;19;20
+282;Lungu Magdalena;19;20
+283;Lupescu Olivera;19;20
+284;Lupusoru Catalina;19;20
+285;Lupusoru Raoul;19;20
+286;Macovei Georgiana;20;21
+287;Magyari Klara;20;21
+288;Magurean Mihai;20;21
+289;Maier Stelian-Sergiu;20;21
+290;Manea Rozemarie;20;21
+291;Mangalagiu Ionel;20;21
+292;Manole Alina Vasilica;20;21
+293;Marinescu Rodica;20;21
+294;Maris Dan;20;21
+295;Marţu Silvia;20;21
+296;Meghea Bogdan;20;21
+297;Melnig Viorel;20;21
+298;Menyhardt Karoly;20;21
+299;Merfea Romeo;20;21
+300;Miculescu Florin;20;21
+301;Miculescu Nicoleta;21;22
+302;Miculescu Marian;21;22
+303;Miroiu Floralice Marimona;21;22
+304;Muresan Balasz Dorina;21;22
+305;Moldovan Marioara;21;22
+306;Moraru Dana Sorina;21;22
+307;Munteanu Florin;21;22
+308;Musat Veronica;21;22
+309;Nagea Mihail;21;22
+310;Neamtu Jenica;21;22
+311;Neamtu Monica;21;22
+312;Neamtu Andrei;21;22
+313;Nechifor Cristina;21;22
+314;Nechifor Gheorghe;21;22
+315;Negrusoiu Mihai;21;22
+316;Negrutiu Meda Lavinia;22;23
+317;Nicola Codruta;22;23
+318;Niculescu Marius;22;23
+319;Nicorov Ana;22;23
+320;Novac Ovidiu;22;23
+321;Obreja Laura;22;23
+322;Onose Gelu;22;23
+323;Ossi Horovitz;22;23
+324;Pandele Andreea;22;23
+325;Pariza George;22;23
+326;Patrascu Ion;22;23
+327;Patru Cristina;22;23
+328;Parvu Cristian;22;23
+329;Păcuraru Smărăndiţa Georgeta;22;23
+330;Padurariu Ana;22;23
+331;Pelin Irina Mihaela;23;24
+332;Pencea Ion;23;24
+333;Petcu Cristian;23;24
+334;Petica Aurora;23;24
+335;Petrea Celina;23;24
+336;Petriceanu MIrela;23;24
+337;Petrescu Emanuela;23;24
+338;Petreus Ion;23;24
+339;Petreus Tudor;23;24
+340;Piticescu Radu;23;24
+341;Piticescu Roxana;23;24
+342;Pop Gheorghe;23;24
+343;Pop Daniela Maria;23;24
+344;Popa Lacramioara;23;24
+345;Popa Catalin;23;24
+346;Popa Nadina Sanziana;24;25
+347;Popa Ionel Marcel;24;25
+348;Popa Marcel;24;25
+349;Popa Iulian;24;25
+350;Popescu Andrei;24;25
+351;Popescu Diana;24;25
+352;Popescu Laura;24;25
+353;Popescu Gheorghe;24;25
+354;Popescu Violeta;24;25
+355;Popescu George;24;25
+356;Popovici Andrada;24;25
+357;Porojan Sorin Daniel;24;25
+358;Potarniche Catalina Gabriela;24;25
+359;Preda Oana;24;25
+360;Prejmerean Cristina;24;25
+361;Prioteasa Paula;25;26
+362;Prodan Doina;25;26
+363;Prodana Mariana;25;26
+364;Puică Melniciuc Nicoleta;25;26
+365;Radu Izabela;25;26
+366;Reclaru Lucien;25;26
+367;Rizea Radu;25;26
+368;Robu Daniel;25;26
+369;Rominu Mihai;25;26
+370;Rominu Roxana Otilia;25;26
+371;Rosu Alexandru;25;26
+372;Rugina Alexandrina;25;26
+373;Rusti Cristina;25;26
+374;Rusu Lucian;25;26
+375;Rusu Laura;25;26
+376;Saban Rami;26;27
+377;Schacht Ettienne;26;27
+378;Sava Sorina;26;27
+379;Saroşi -Tamas Codruta;26;27
+380;Sajin Maria;26;27
+381;Sandru Ion;26;27
+382;Sandu Liliana;26;27
+383;Sarbu Paul Dan;26;27
+384;Stan Felicia;26;27
+385;Săftescu-Jescu Cristian;26;27
+386;Sebe Ionela;26;27
+387;Sfat Catalin;26;27
+388;Simon Simion;26;27
+389;Simon Viorica;26;27
+390;Simion Luminita;26;27
+391;Simionescu Bogdan;27;28
+392;Silaghi Dumitrescu Laura;27;28
+393;Sinescu Comin;27;28
+394;Soare Maria Laura;27;28
+395;Socol Gabriel;27;28
+396;Stancu Izabela Cristina;27;28
+397;Stanescu Paul;27;28
+398;Stanulet Lucica;27;28
+399;Stefan Nicolaie;27;28
+400;Stefanescu Ileana;27;28
+401;Stoia Adelina Elena;27;28
+402;Stoia Dan Ioan;27;28
+403;Stoica Anicuta;27;28
+404;Suflet Dana Mihaela;27;28
+405;Sulca Nicoleta;27;28
+406;Tamasan Monica;1;1
+407;Tanase Edi Constantin;2;2
+408;Tanase Anca;3;3
+409;Tardei Christu;4;4
+410;Tarcolea Mihai;5;5
+411;Tarnita Daniela;6;6
+412;Tarnita Nicolae;7;7
+413;Tatarciuc Monica Silvia;8;8
+414;Todea Milica;9;9
+415;Teodorescu Valentin;10;10
+416;Titorencu Irina;11;11
+417;Traistaru Teodor;12;12
+418;Trisca Corneliu;13;14
+419;Tomoaia Cotisel Maria;14;15
+420;Tutunaru Sebastian;15;16
+421;Topala Catalin;16;17
+422;Toth-Tascau Mirela;17;18
+423;Trandafir Viorica;18;19
+424;Trante Constantin;19;20
+425;Trante Octavian;20;21
+426;Trisca-Rusu Corneliu;21;22
+427;Trif Marcela;22;23
+428;Trif Mihaela;23;24
+429;Tura Vasile;24;25
+430;Tudor Andrei;25;26
+431;Ursu Elena Laura;26;27
+432;Van Staden Jacobus;27;28
+433;Van Staden Raluca;1;1
+434;Vanea Emilia;2;2
+435;Verestiuc Liliana;3;3
+436;Vigaru Cosmina;4;4
+437;Visan Anita Ioana;5;5
+438;Vitalariu Anca Mihaela;6;6
+439;Vlad Maria Daniela;7;7
+440;Vladescu Alina;8;8
+441;Vlasceanu Daniel;9;9
+442;Vodislav Cristinel;10;10
+443;Voicu Ioan Stefan;11;11
+444;Vranceanu Diana;12;12
+445;Vuluga Zina;13;13
+446;Voroneanu Maria;14;15
+447;Williams F. David;15;16
+448;Zhang Xingdong;16;17
+449;Zaharia Catalin;17;18
+450;Zamfir Mirela;18;19
+451;Zamfir Alina;19;20
+452;Zamfir Raluca;20;21
+453;Zamfir Simona;21;22
+454;Zecheru Teodora;22;23
+455;Zonda Radu;23;24
+456;Zetu Irina;24;25
